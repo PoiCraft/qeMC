@@ -1,0 +1,42 @@
+name: Build release
+
+on:
+  push:
+    tags:
+      - v*
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: install pytz
+      run: pip3 install pytz
+    - name: build zh_PC.lang
+      id: build
+      run: python3 build.py
+    - name: pack
+      if: startsWith(github.ref, 'refs/tags/')
+      run: |
+        rm -rf .git
+        rm -rf data
+        rm -rf .github
+        rm *.md
+        rm build.py
+        ls
+        name="${{ github.ref }}"
+        zip -r qeMC-${name##*/}.mcpack .
+    - name: release
+      if: startsWith(github.ref, 'refs/tags/')
+      uses: softprops/action-gh-release@v1
+      with:
+        prerelease: true
+        draft: true
+        files: qeMC-*.mcpack
+        body: (empty)
+      env:
+        GITHUB_TOKEN: ${{github.token}}
