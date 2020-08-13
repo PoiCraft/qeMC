@@ -10,7 +10,7 @@ accessibility.importing.canceled=欸, 为什么要拔出去啊
 accessibility.importing.complete=啊~ 彻底进来了
 accessibility.signin.xbl=正在连接到 Xbox Live
 
-action.interact.trade = PY
+action.interact.trade=PY
 
 networkWorld.join_server=开始多人运动!
 networkWorld.lan_label=线下 PY!
