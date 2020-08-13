@@ -1,17 +1,17 @@
 {
   "format_version": 2,
   "header": {
-    "description": "修正 Minecraft BE 的部分神奇翻译",
-    "name": "zhMC",
-    "uuid": "475b62fe-48ec-4408-ab16-d2f1befe4c39",
-    "version": [0, 0, 4],
+    "description": "呐呐,让我们一起来生草吧!",
+    "name": "qeMC",
+    "uuid": "2e93e134-77d3-4cd3-a1f9-52de1f4a4abb",
+    "version": [0, 0, 1],
     "min_engine_version": [1, 16, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "50ee73c4-eedf-4a7c-ba7b-7ba614f80cb3",
-      "version": [0, 0, 4]
+      "uuid": "c2063aed-286e-4d21-a5f3-e8a5bea9319e",
+      "version": [0, 0, 1]
     }
   ]
 }
