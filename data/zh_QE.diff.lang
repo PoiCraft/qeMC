@@ -1,0 +1,89 @@
+accessibility.loading.done=欢迎回家, Master!
+accessibility.saving.done=再见, Master.
+accessibility.downloading.start=下载已开始啦!
+accessibility.downloading.Progress=已经下载 %s% 了哦!
+accessibility.downloading.canceled=欸, 为什么取消啊?
+accessibility.downloading.complete=阿啦阿啦, 下载好了呢
+accessibility.importing.start=东西, 在进来了呢
+accessibility.importing.Progress=呜呜呜, 进来 %s% 了呢
+accessibility.importing.canceled=欸, 为什么要拔出去啊
+accessibility.importing.complete=啊~ 彻底进来了
+accessibility.signin.xbl=正在连接到 Xbox Live
+
+action.interact.trade = PY
+
+networkWorld.join_server=开始多人运动!
+networkWorld.lan_label=线下 PY!
+
+localWorld.no_local_world_label=欸,这里一个世界都没有呢!
+
+death.attack.anvil=%1$s 被坠落的铁砧压成了饼	#
+death.attack.arrow=%1$s 被 %2$s 射死了	#
+death.attack.arrow.item=%1$s 被 %2$s 用 %3$s 射死了	#
+death.attack.cactus=%1$s 被插死了	#
+death.attack.cactus.player=%1$s 在试图逃离 %2$s 时撞入了仙人掌中	#
+death.attack.drown=%1$s 淹死了	#
+death.attack.drown.player=%1$s 在试图逃离 %2$s 时淹死了	#
+death.attack.explosion=%1$s 裂开了	#
+death.attack.explosion.player=%1$s 被 %2$s 炸死了	#
+death.attack.fall=%1$s自由落体而死	#
+death.attack.fallingBlock=%1$s 被坠落的方块压成了饼	#
+death.attack.fireball=%1$s 被 %2$s 用火球烤成了碳	#
+death.attack.fireball.item=%1$s 被 %2$s 用 %3$s 发射的火球烤成了碳	#
+death.attack.fireworks=%1$s 在一声巨响中升华了了	#
+death.attack.flyIntoWall=%1$s 感受到了动能	#
+death.attack.generic=%1$s 飞升了	#
+death.attack.inFire=%1$s 在烈火中永生	#
+death.attack.inWall=%1$s 在卡墙而亡	#
+death.attack.lava.player=%1$s 在逃离 %2$s 时试图在岩浆里游泳	#
+death.attack.lightningBolt=%1$s 渡劫失败	#
+death.attack.starve=什么? %1$s 饿死了	#
+death.attack.thorns=%1$s 在试图伤害 %2$s 时被杀, 正当防卫!
+death.fell.accident.generic=%1$s 从高处自由落体而死	#
+death.fell.accident.ladder=%1$s 从梯子上自由落体而死	#
+death.fell.accident.vines=%1$s 从一些藤蔓上自由落体而死	#
+
+deathScreen.deleteWorld=再见了, Master
+
+enchantment.arrowDamage=大力出奇迹!
+enchantment.arrowFire=大火箭!
+enchantment.arrowInfinite=奥里给!
+enchantment.arrowKnockback=冲冲冲!!!
+enchantment.crossbowMultishot=多线程大法好
+enchantment.crossbowPiercing=盔甲是屑
+enchantment.crossbowQuickCharge=百米冠军
+enchantment.curse.binding=弄不掉的哦
+enchantment.curse.vanishing=一不小心就没了呢
+enchantment.damage.all=受力面积越小,压力越大
+enchantment.damage.arthropods=关爱节肢动物
+enchantment.damage.undead=关爱亡灵
+enchantment.digging=Chinese速度
+enchantment.durability=不坏!
+enchantment.fire=来点烤肉
+enchantment.fishingSpeed=蚯蚓
+enchantment.frostwalker=冰上最靓的仔
+enchantment.knockback=拜拜了您嘞
+enchantment.lootBonus=多来点多来点
+enchantment.lootBonusDigger=给爷出货
+enchantment.lootBonusFishing=大海我爱你
+enchantment.mending=耐久是啥?
+enchantment.oxygen=我有鳃
+enchantment.protect.all=护体!
+enchantment.protect.explosion=爆炸是啥?
+enchantment.protect.fall=我爱自由落体
+enchantment.protect.fire=人在火中走
+enchantment.protect.projectile=你只管射,我就看着
+enchantment.thorns=反弹!
+enchantment.untouching=我只要你
+enchantment.waterWalker=海里见!
+enchantment.waterWorker=海底是我家
+enchantment.tridentChanneling=渡劫!
+enchantment.tridentLoyalty=我的,我的,永远是我的
+enchantment.tridentRiptide=芜湖,起飞
+enchantment.tridentImpaling=插透你
+
+entity.slime.name=啪啪怪
+
+item.air.name=屁
+item.bed.pink.name=猛男之床
+item.fireworksCharge.pink=猛男色
